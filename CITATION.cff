@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Longatte"
+  given-names: "Guillaume"
+  orcid: "https://orcid.org/0000-0001-9323-8808"
+- family-names: "Lisi"
+  given-names: "Fabio"
+  orcid: "https://orcid.org/0000-0003-3597-596X"
+title: "A statistical model to predict single molecule encapsulation"
+version: 1.0.0
+date-released: 2022-02-20
+url: "https://github.com/guillaume-longatte/encapsulation_prevision"
